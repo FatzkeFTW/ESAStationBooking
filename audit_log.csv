@@ -1,0 +1,5 @@
+,timestamp,code,name,station,start,duration,action
+0,2023-07-20 22:55:21.398931,d46f68,BigJon,Door (Left),2023-07-23 06:00:00,4,Booked
+1,2023-07-20 22:55:32.750936,,BigJon,Door (Left),2023-07-23 06:00:00,4,Removed
+2,2023-07-20 23:35:42.455023,e753ed,EpicMemer420,Window (Right),2023-07-24 14:00:00,6,Booked
+3,2023-07-20 23:36:19.749346,,EpicMemer420,Window (Right),2023-07-24 14:00:00,6,Removed
